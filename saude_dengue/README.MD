@@ -1,4 +1,4 @@
-# saude_dengue
+# Dengue/Chikungunya
 
 **Fonte:** [Nome da instituição]  
 **Período:** [Ano ou intervalo de tempo]  
@@ -24,7 +24,7 @@ Breve explicação sobre o dataset, o que ele representa e por que é relevante.
 - Dashboards com Streamlit ou Power BI
 
 ## Fonte Original
-- [Link para a fonte oficial]
+- [https://datasus.saude.gov.br/transferencia-de-arquivos/]
 
 ## Observações
 - Dados anonimizados.
